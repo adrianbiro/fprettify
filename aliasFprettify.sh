@@ -1,2 +1,2 @@
 #!/bin/bash
-export alias ,fpretify='prettify.py -i 4 -l 80 --strict-indent'
+export alias ,fprettify='prettify.py -i 4 -l 80 --strict-indent'
